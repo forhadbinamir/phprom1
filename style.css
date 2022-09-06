@@ -1,0 +1,21 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
+.about-section {
+	background: black;
+	padding: 224px 100px;
+	border-bottom: none;
+	margin-bottom: none;
+}
+
+@media screen and (max-width:768px) {
+	.about-section {
+		background: black;
+		padding: 224px 100px;
+		border-bottom: none;
+		margin-bottom: none;
+	}
+}
